@@ -3,3 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.button{
+    background-color: navy;
+    border-radius: 8px;
+    padding: 10px 20px;
+    box-shadow: 20px;
+    color: whitesmoke;
+    border: none;
+    width: 250px;
+}
